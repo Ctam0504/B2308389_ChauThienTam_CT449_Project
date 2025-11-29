@@ -1,3 +1,3 @@
-﻿# B2308389_ChauThienTam_CT449_Project
-
-
+admin:
+username: admin
+password: admin123
